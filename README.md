@@ -7,8 +7,8 @@ Open the demo: https://delgadowgu.github.io/iar-intake-prototype/
 ## Demonstrating the app
 
 - Use the demo role selector to explore owner, reviewer, council, team lead, and leadership experiences.
-- The leadership dashboard is available through Portfolio in this build.
-- Open Review work, choose an initiative, and open Tasks to add or edit tasks. Choose Done to complete a task.
+- Open Leadership dashboard for the portfolio summaries, filters, boards, and initiative details.
+- Open Review & tasks and choose an initiative to add, edit, complete, or reopen its tasks.
 - Each browser has independent synthetic data. Changes remain in that browser; they are not shared with other visitors.
 - Demo roles are walkthrough controls, not authentication. Do not enter real or confidential information.
 - Proposed rubric and process settings are demonstration material, not adopted policy.
@@ -24,3 +24,4 @@ Source code remains in the local development workspace. This repository is a pub
 ## Build verification
 
 Published package prepared October 12, 2026. Lint, TypeScript/production build, and 153 tests in 13 files passed before publication. These checks do not establish production readiness.
+
